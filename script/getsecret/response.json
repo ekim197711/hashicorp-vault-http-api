@@ -1,0 +1,24 @@
+{
+  "request_id": "79cc9ba5-eee8-5a50-c07d-f1a4aa7f29ca",
+  "lease_id": "",
+  "renewable": false,
+  "lease_duration": 0,
+  "data": {
+    "data": {
+      "db_password": "openUp2",
+      "db_username": "scrummaster",
+      "mykey1": "myvalueee1",
+      "redis_password": "abc123",
+      "redis_username": "redisuser1"
+    },
+    "metadata": {
+      "created_time": "2019-08-28T19:10:57.091502374Z",
+      "deletion_time": "",
+      "destroyed": false,
+      "version": 2
+    }
+  },
+  "wrap_info": null,
+  "warnings": null,
+  "auth": null
+}

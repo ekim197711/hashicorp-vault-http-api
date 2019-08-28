@@ -1,0 +1,72 @@
+{
+  "request_id": "ca0fa012-b4f5-a256-3ff1-cf7e715511c9",
+  "lease_id": "",
+  "renewable": false,
+  "lease_duration": 0,
+  "data": {
+    "accessor": "UGq4TAGRCcg1Du1oRO7xRjbu",
+    "creation_time": 1567020048,
+    "creation_ttl": 36000,
+    "display_name": "token",
+    "entity_id": "",
+    "expire_time": "2019-09-10T07:26:12.306611926Z",
+    "explicit_max_ttl": 0,
+    "id": "s.U8uzJYpgQUzP9Ol7ZczUQujy",
+    "issue_time": "2019-08-28T19:20:48.2067796Z",
+    "last_renewal": "2019-08-28T19:26:12.30661206Z",
+    "last_renewal_time": 1567020372,
+    "meta": {
+      "user": "Mike"
+    },
+    "num_uses": 0,
+    "orphan": true,
+    "path": "auth/token/create-orphan",
+    "policies": [
+      "default",
+      "mypolicy"
+    ],
+    "renewable": true,
+    "ttl": 1079823 - 1079783
+    "type": "service"
+  },
+  "wrap_info": null,
+  "warnings": null,
+  "auth": null
+}
+
+
+{
+  "request_id": "678264fc-cb45-1bf9-b739-18affbe2e757",
+  "lease_id": "",
+  "renewable": false,
+  "lease_duration": 0,
+  "data": {
+    "accessor": "UGq4TAGRCcg1Du1oRO7xRjbu",
+    "creation_time": 1567020048,
+    "creation_ttl": 36000,
+    "display_name": "token",
+    "entity_id": "",
+    "expire_time": "2019-09-10T07:26:12.306611926Z",
+    "explicit_max_ttl": 0,
+    "id": "s.U8uzJYpgQUzP9Ol7ZczUQujy",
+    "issue_time": "2019-08-28T19:20:48.2067796Z",
+    "last_renewal": "2019-08-28T19:26:12.30661206Z",
+    "last_renewal_time": 1567020372,
+    "meta": {
+      "user": "Mike"
+    },
+    "num_uses": 0,
+    "orphan": true,
+    "path": "auth/token/create-orphan",
+    "policies": [
+      "default",
+      "mypolicy"
+    ],
+    "renewable": true,
+    "ttl": 1079783,
+    "type": "service"
+  },
+  "wrap_info": null,
+  "warnings": null,
+  "auth": null
+}

@@ -1,0 +1,10 @@
+{
+  "policies": [
+    "mypolicy"
+  ],
+  "meta": {
+    "user": "Mike"
+  },
+  "ttl": "10h",
+  "renewable": true
+}
